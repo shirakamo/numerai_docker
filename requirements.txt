@@ -1,0 +1,7 @@
+# pytorch and pytorch-lightning is installed in Dockerfile 
+scikit-learn
+xgboost
+lightgbm
+jupyter
+matplotlib
+seaborn
