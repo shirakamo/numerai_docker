@@ -1,6 +1,7 @@
 version: '3.5'
 services:
   python:
+    image: numerai-docker:latest
     restart: always
     build:
       context: .

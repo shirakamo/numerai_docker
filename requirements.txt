@@ -1,4 +1,5 @@
 # pytorch and pytorch-lightning is installed in Dockerfile 
+pyarrow
 scikit-learn
 xgboost
 lightgbm
