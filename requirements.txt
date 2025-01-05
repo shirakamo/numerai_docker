@@ -7,3 +7,7 @@ jupyter
 matplotlib
 seaborn
 numerapi
+numerai-tools
+mlflow
+hydra-core
+hydra-optuna-sweeper
